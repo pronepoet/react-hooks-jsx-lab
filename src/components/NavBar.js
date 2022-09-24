@@ -4,9 +4,11 @@ function NavBar() {
   // update the JSX being returned!
   return (
   <div>
-  <nav>NavBar</nav>
-<a href="#home"></a>
-<a href="#about"></a>
+  <nav>NavBar
+  <a href="#home">Home</a>
+<a href="#about">About</a>
+  </nav>
+
   </div>
 
   
